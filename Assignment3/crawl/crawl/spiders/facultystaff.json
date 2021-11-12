@@ -1,0 +1,276 @@
+{
+  "table1": [
+    {
+      "Name & Title": "Acharya, Subrata Professor",
+      "Expertise": "Cyber Physical Systems, Medical Analytics, Trusted Computing, Information Security Management, Secure Health Informatics, Secure Mobile Systems, Ethical & Privacy Issues in Computing Systems",
+      "Contact Information": "sacharya AT_TOWSON (410) 704-4938 YR-461"
+    },
+    {
+      "Name & Title": "Ali-Gombe,Aisha Assistant Professor",
+      "Expertise": "Malware Analysis, System Security, Privacy Policy Techniques in Mobile Applications, Software Reverse Engineering, Code Fingerprinting, Software Instrumentation, Database and Device Memory Forensics",
+      "Contact Information": "aaligombe AT_TOWSON (410)704-5439 YR-422"
+    },
+    {
+      "Name & Title": "Alkharouf, Nadim Professor& MB3 Undergraduate Director",
+      "Expertise": "Bioinformatics, Design and Development of Database Management Systems and Data Mining Tools",
+      "Contact Information": "nalkharouf AT_TOWSON (410) 704-3149 YR-471"
+    },
+    {
+      "Name & Title": "Brown, Cheryl Thomas Lecturer",
+      "Expertise": "Sociological Effects of Computerization, Management/End-User Liaison, Systems Analysis, Database Management and Operating Systems",
+      "Contact Information": "cbrown AT_TOWSON (410) 704-4966 YR-444"
+    },
+    {
+      "Name & Title": "Chakraborty, Joyram Associate Professor",
+      "Expertise": "Human-Computer Interaction, Medical Informatics, Computer Game Design",
+      "Contact Information": "jchakraborty AT_TOWSON (410) 704-2109 YR-474"
+    },
+    {
+      "Name & Title": "Chakraborty, Suranjan Professor",
+      "Expertise": "Requirements Engineering, Distributed Information Systems Development Teams, Qualitative Research Methods, Human Computer Interaction",
+      "Contact Information": "schakraborty AT_TOWSON (410) 704-4769 YR-469"
+    },
+    {
+      "Name & Title": "Conover, Adam Clinical Assistant Professor",
+      "Expertise": "Object-Oriented Programming, Web Development, Programming Languages, Embedded Systems, Multi-Agent Systems",
+      "Contact Information": "aconover AT_TOWSON (410) 704-4782 YR-425"
+    },
+    {
+      "Name & Title": "Davani, Darush Professor",
+      "Expertise": "Mathematical Modeling, Computer Simulation, Robotics, Earthquake Engineering",
+      "Contact Information": "ddavani AT_TOWSON (410) 704-2774 YR-470"
+    },
+    {
+      "Name & Title": "Dehlinger, Josh Professor &Director of CS Program",
+      "Expertise": "Software Engineering, Requirements Engineering, Software Analysis and Design, Programming Languages",
+      "Contact Information": "jdehlinger AT_TOWSON (410) 704-4536 YR-476"
+    },
+    {
+      "Name & Title": "Deng, Lin Assistant Professor",
+      "Expertise": "Software Engineering, Software Testing, Mobile and Web Application Development, Cybersecurity, Mutation Analysis, Crowdsourcing",
+      "Contact Information": "ldeng AT_TOWSON (410) 704-2894 YR-436"
+    },
+    {
+      "Name & Title": "Dierbach, Charles Associate Professor",
+      "Expertise": "Artificial Intelligence (Analogical Reasoning), Object-Oriented Design and Development, Computer Education",
+      "Contact Information": "cdierbach AT_TOWSON (410) 704-3552 YR-464"
+    },
+    {
+      "Name & Title": "Downing-Harris, Terry Lecturer",
+      "Expertise": "Software Engineering,Systems Analyst,Information Technology,Information Systems,Database Management System development,IT Management,Programming Languages",
+      "Contact Information": "tdowningharris AT_TOWSON (410) 704-4662 YR-457"
+    },
+    {
+      "Name & Title": "Eyer, Robert Lecturer",
+      "Expertise": "Bare Machine Computing, Network Security, Encryption Algorithms",
+      "Contact Information": "reyer AT_TOWSON (410) 704-2428 YR-437"
+    },
+    {
+      "Name & Title": "Feng, Heidi Professor & Director of IS Program",
+      "Expertise": "Human-Computer Interaction, Accessible Computing, Health Informatics, Accessible Security Solutions",
+      "Contact Information": "jfeng AT_TOWSON (410) 704-3463 YR-477"
+    },
+    {
+      "Name & Title": "Hammell, Robert Professor",
+      "Expertise": "Fuzzy Logic, Machine Learning, Artificial Intelligence, Computer Networks",
+      "Contact Information": "rhammell AT_TOWSON (410) 704-6050 YR-462"
+    },
+    {
+      "Name & Title": "Hilberg, Scott Clinical Professor",
+      "Expertise": "ICT Fluency, Information Technology Management, Technology Education and Software Development",
+      "Contact Information": "shilberg AT_TOWSON (410) 704-5277 YR-423"
+    },
+    {
+      "Name & Title": "Hong, Sungchul Associate Professor",
+      "Expertise": "Auction Market Mechanism, e-Commerce, Intelligent Agents, Data Classification",
+      "Contact Information": "shong AT_TOWSON (410) 704-6338 YR-479"
+    },
+    {
+      "Name & Title": "Hornberger, Alex Lecturer",
+      "Contact Information": "ahornberger AT_TOWSON (410) 704-2633 YR-430"
+    },
+    {
+      "Name & Title": "Hossain, Moinul Assistant Professor",
+      "Expertise": "Security Assessment of Wireless Network Protocols and Threat Modeling, Cross-technology Spectrum Sharing, Dynamic Spectrum Access, Cognitive Radio Networks",
+      "Contact Information": "mhossain AT_TOWSON (410) 704-6310 YR-443"
+    },
+    {
+      "Name & Title": "Irani, Jal Lecturer",
+      "Contact Information": "jirani AT_TOWSON (410) 704-2633 YR-430"
+    },
+    {
+      "Name & Title": "Karne, Ramesh Professor",
+      "Expertise": "Bare Machine Computing Applications and Architectures; Transformation of OS Based Applications to Bare Machine Computing Applications; Design, Implementation and Performance Analysis of Server Systems, Gateways, Routers, Network Clients, Browser and other Network Elements",
+      "Contact Information": "rkarne AT_TOWSON (410) 704-3955 YR-429"
+    },
+    {
+      "Name & Title": "Kaza, Sidd Professor,Department Chair",
+      "Expertise": "Cybersecurity Education, Data/Web Mining, Learning Sciences, Web and Mobile Application Development",
+      "Contact Information": "skaza AT_TOWSON (410) 704-2633 YR-406C"
+    },
+    {
+      "Name & Title": "Kelleher, Tina Lecturer",
+      "Contact Information": "tkelleher AT_TOWSON (410) 704-3951 YR-445"
+    },
+    {
+      "Name & Title": "Kim, Yanggon Professor",
+      "Expertise": "Computer Architecture, Computer Networks, Communications, Computer Graphics, High-Performance Computing Systems",
+      "Contact Information": "ykim AT_TOWSON (410) 704-3782 YR-473"
+    },
+    {
+      "Name & Title": "Liao, Weixian Assistant Professor",
+      "Expertise": "Big data analytics, cybersecurity, and networking in cyber physical systems and IoT",
+      "Contact Information": "wliao AT_TOWSON (410) 704-2154 YR-438"
+    },
+    {
+      "Name & Title": "Loksa, Dastyni Assistant Professor",
+      "Expertise": "Computer Science Education, Human-Computer Interaction",
+      "Contact Information": "dloksa AT_TOWSON  YR-431"
+    },
+    {
+      "Name & Title": "Lu, Chao Professor & Director of Doctoral Program",
+      "Expertise": "Digital Signal Processing, Algorithm Design and Implementation, FFTs, Parallel and Vector Computing, Computer Vision and Image Processing",
+      "Contact Information": "clu AT_TOWSON (410) 704-3950 YR-465"
+    },
+    {
+      "Name & Title": "McGuire, Michael AssociateProfessor & Director of IT Program",
+      "Expertise": "Spatio-Temporal Data Mining, Data Warehousing, Sensor Database Systems, Distributed Databases, Environmental Informatics, Information Visualization",
+      "Contact Information": "mmcguire AT_TOWSON (410) 704-2337 YR-424"
+    },
+    {
+      "Name & Title": "Nguyen, Nam Associate Professor",
+      "Expertise": "Social Network Analysis, Social-aware Mobile Computing, Data Mining, and Cyber Security",
+      "Contact Information": "npnguyen AT_TOWSON (410) 704-3089 YR-427"
+    },
+    {
+      "Name & Title": "O'Leary, Michael Professor",
+      "Expertise": "Mathematical Algorithms for Geographic Profiling, Cybersecurity",
+      "Contact Information": "moleary AT_TOWSON (410) 704-4757 YR-317"
+    },
+    {
+      "Name & Title": "Pak, Jinie Clinical Associate Professor",
+      "Expertise": "Intelligence and Security Informatics, Social Network Analysis, Computational Linguistics,Computer Supported Cooperative Works (CSCW),Human-Computer Interaction",
+      "Contact Information": "jpak AT_TOWSON (410) 704-3873 YR-468"
+    },
+    {
+      "Name & Title": "Saeedloei,Neda Assistant Professor",
+      "Expertise": "Formal Methods; Model-based Design, Specification and Verification of Cyber-physical Systems, Models of Computation, Logic in Computer Science",
+      "Contact Information": "nsaeedloei AT_TOWSON (410) 704-2255 YR-455"
+    },
+    {
+      "Name & Title": "Sanders, Willie Clinical Assistant Professor",
+      "Expertise": "Systems Administration, Forensics",
+      "Contact Information": "wsanders AT_TOWSON YR-456"
+    },
+    {
+      "Name & Title": "Song, Yeong-Tae Professor",
+      "Expertise": "Program Slicing, Software Impact Analysis, Software Architecture, Enterprise Architecture, e-Learning Systems, Health Informatics",
+      "Contact Information": "ysong AT_TOWSON (410) 704-3557 YR-472"
+    },
+    {
+      "Name & Title": "Tang, Katherine Associate Professor",
+      "Expertise": "Multimedia, Comp Graphics and Vision, Comp Animation and Gaming, Machine Learning, Human-Comp Interaction, Virtual Reality and Virtual Environment",
+      "Contact Information": "ztang AT_TOWSON (410) 704-3090 YR-478"
+    },
+    {
+      "Name & Title": "Tavakolan, Mona Clinical Assistant Professor",
+      "Expertise": "Bioinformatics, Computational Biology, Computer Networks, Design and Development of Database Management Systems",
+      "Contact Information": "mtavakolan AT_TOWSON (410) 704-4781 YR-426"
+    },
+    {
+      "Name & Title": "Taylor, Blair Associate Professor & Director of Graduate Program",
+      "Expertise": "Software Security, Secure Coding, Security Education",
+      "Contact Information": "btaylor AT_TOWSON (410) 704-4560 YR-463"
+    },
+    {
+      "Name & Title": "Wang, Kathy Associate Professor & Assistant Chairperson",
+      "Expertise": "Group Decision Support System, Human-Computer Interaction, Computer Supported Cooperative Work, Knowledge Management, System Analysis and Design, Software Engineering, Asynchronous Learning Network, e-Commerce",
+      "Contact Information": "ywang AT_TOWSON (410) 704-2104 YR-475"
+    },
+    {
+      "Name & Title": "Wang, Ronnie Assistant Professor",
+      "Expertise": "Big Data Analytics, Deep Learning, Security and Privacy in Distributed Systems (Cyber-Physical Systems, The Internet of Things), Blockchain and related applications, e.g., smart transportation, smart healthcare, etc.",
+      "Contact Information": "qwang AT_TOWSON YR-458"
+    },
+    {
+      "Name & Title": "Wijesinha, Alexander Professor",
+      "Expertise": "Computer Networks, Wireless Networks, Network Aspects of Bare Machine Computing, Network Security, Network Performance",
+      "Contact Information": "awijesinha AT_TOWSON (410) 704-4660 YR-428"
+    },
+    {
+      "Name & Title": "Wilbanks, Linda Lecturer",
+      "Contact Information": "lwilbanks AT_TOWSON (410) 704-2981 YR-446"
+    },
+    {
+      "Name & Title": "Yu, Wei Professor",
+      "Expertise": "Cyber Security, Computer Networks and Cyber-Physical Systems",
+      "Contact Information": "wyu AT_TOWSON (410) 704-5528 YR-467"
+    },
+    {
+      "Name & Title": "Zimand, Iliana Lecturer",
+      "Expertise": "Programming Languages, Algorithms, Databases",
+      "Contact Information": "izimand AT_TOWSON (410 704-4666 YR-441"
+    },
+    {
+      "Name & Title": "Zimand,Marius Professor",
+      "Expertise": "Computational Complexity, Algorithms, Cryptography",
+      "Contact Information": "mzimand AT_TOWSON (410) 704-4967 YR-466"
+    }
+  ],
+  "table2": [
+    {
+      "Name & Title": "Shannon KreinerAdministrative Assistant I",
+      "Contact Information": "(410) 704-5044 SKreiner AT_TOWSON YR 406B"
+    },
+    {
+      "Name & Title": "Marcy KrawczykAdministrative Assistant II",
+      "Contact Information": "(410) 704-3788 mkrawczyk AT_TOWSON YR 406A"
+    },
+    {
+      "Name & Title": "Heather L. BohleStudent Services Coordinator",
+      "Contact Information": "(410) 704-2757 hbohle AT_TOWSON YR 206K"
+    },
+    {
+      "Name & Title": "Timothy SchneiderDegree Advising Specialist",
+      "Contact Information": "(410) 704-4918 tschneider AT_TOWSON YR 206H"
+    },
+    {
+      "Name & Title": "Andrea ChenowithGraduate Program Coordinator",
+      "Contact Information": "(410) 704-4309 achenowith AT_TOWSON YR 206J"
+    },
+    {
+      "Name & Title": "Gregory P. NikolIT Lab Coordinator",
+      "Contact Information": "(410) 704-3502 gnikol AT_TOWSON YR 417"
+    },
+    {
+      "Name & Title": "Kyle CummingsLab Systems Administrator",
+      "Contact Information": "(410) 704-2424 jcummings AT_TOWSON YR 417"
+    }
+  ],
+  "table3": [
+    {
+      "Name and Education": "Behforooz, Ali Ph.D., Michigan State University",
+      "Expertise": "Software Engineering, Software Project Management, Software Metrics, Object-Oriented Design and Development, Compiler Design, Programming Languages"
+    },
+    {
+      "Name and Education": "Graves, Bud Ph.D., Johns Hopkins University",
+      "Expertise": "Artificial Intelligence, Modeling, Simulation"
+    },
+    {
+      "Name and Education": "Lidtke, Doris Ph.D., University of Oregon",
+      "Expertise": "Programming Languages, Software Engineering, Social and Ethical Issues, Computer Science Education"
+    },
+    {
+      "Name and Education": "Little, Joyce C. Ph.D., University of Maryland College Park",
+      "Expertise": "Structured Analysis and Design, Software Engineering, Computer Personnel Research, Societal Impact and Ethical Issues, Computer Science Education"
+    },
+    {
+      "Name and Education": "Schmitt, Jeff M.S., Vanderbilt University",
+      "Expertise": "Computer Graphics, Programming Languages, Computer Networks"
+    },
+    {
+      "Name and Education": "Srivastava, Rajeshwar Ph.D., University of Idaho",
+      "Expertise": "Data Communications, Neural Nets, Microcomputer Interfacing, Process Control, Artificial Intelligence"
+    }
+  ]
+}
