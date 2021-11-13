@@ -1,4 +1,6 @@
 import scrapy, json
+import pandas as pd
+import tabulate
 
 class Faculty_Scrap(scrapy.Spider):
   name="faculty"
@@ -26,5 +28,10 @@ class Faculty_Scrap(scrapy.Spider):
           if len(faculty.keys()) != 0:
             faculty_dict[f'table{i}'].append(faculty)
             
-      file.write(json.dumps(faculty_dict, indent=2))  
+      file.write(json.dumps(faculty_dict, indent=2))
+      
+      for table in faculty_dict:
+        data = [obj.values() for obj in faculty_dict[table]]
+        df = pd.DataFrame(data, columns=faculty_dict[table][0].keys())
+        print(df)
 
